@@ -1,0 +1,30 @@
+.h1 {
+    color: red;
+}
+
+.ylo {
+    color: blue;
+}
+
+video {
+    width: 400px;
+    height: 320px;
+}
+
+img {
+    width: 400px;
+}
+
+.map {
+    width: 100%;
+    height: 400px;
+}
+
+.vid {
+    width: 50%;
+    height: 400px;
+}
+
+.bg {
+    width: 50%;
+}
